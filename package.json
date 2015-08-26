@@ -1,0 +1,14 @@
+{
+  "name": "gradecam-promise",
+  "description": "Provides a Promise/A+ complient Promise implementation along with associated utility methods.",
+  "keywords": ["promise", "deferred"],
+  "version": "1.0.0",
+  "repository": "gradecam/nodejs-p",
+  "license": "MIT",
+  "main": "p.js",
+  "private": false,
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1"
+  }
+}
